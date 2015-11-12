@@ -1,0 +1,171 @@
+h1{
+	text-align:center;
+  font-size: 3em;
+}
+
+h2{
+	text-align: center;
+	font-size: 1.2em;
+	color: #258556;
+
+
+}
+
+h3{
+	text-align: center;
+}
+body{
+	background: white;
+}
+
+p{
+	text-align: center;
+	font-size: 1.2em;
+	color: #7F7A7F;
+}
+
+
+#link{
+	color: #252586;
+}
+
+table{
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+img{
+	width:720px;
+  height:480px;
+    /*display: block;*/
+   /* margin-left: auto;
+    margin-right: auto;
+    /*padding: 10px;*/
+}
+
+.problema{
+	text-align: center;
+	padding-top: 50px;
+}
+
+.problema{
+	text-align: center;
+	padding-top: 75px;
+}
+
+
+h6{
+	text-align: center;
+}
+
+iframe{
+	width: 200px; 
+	height:300px;
+}
+
+.top-bar{
+	background: #86BE41;
+}
+
+.top-bar .right{
+	background: #86BE41;
+}
+
+
+.top-bar-section .dropdown li label {
+    white-space: nowrap;
+    background: #86BE41;
+
+}
+
+#myModal{
+	text-align: center;
+}
+
+p>a{
+	color: #86BE41;
+}
+
+.dropdown{
+  background: #86BE41;	
+}
+
+a{
+	color: white;
+}
+
+.Iconos{
+	width: 320px; 
+  height:260px;
+  margin-top: 90px;
+
+
+}
+
+.Iconos2{
+	width: 230px; 
+	height:270px;
+	margin-top: 80px;
+}
+.logo{
+	margin-top: 30px;
+	max-width: 100%;
+ 	height: auto;
+}
+
+.button {
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  border-color: #86AE41 !important;
+  border-width: 2px;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #a52a00), color-stop(5%, #a52a00), color-stop(100%, #a52a00));
+  background-image: -webkit-linear-gradient(#86BE41, #86BE41 5%, #86BE41);
+  background-image: -moz-linear-gradient(#86BE41, #86BE41 5%, #86BE41);
+  background-image: -o-linear-gradient(#86BE41, #86BE41 5%, #86BE41);
+  background-image: linear-gradient(#86BE41, #86BE41 5%, #86BE41);
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0) inset;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0) inset;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0) inset;
+ 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.myModal{
+  text-align: center;
+}
+
+/* We use this to get basic styling on all basic form elements */
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea {
+  -webkit-appearance: none;
+  background-color: #DBEAE2;
+  font-family: inherit;
+  border: 2px solid #DBEAE2;
+  box-shadow: inset 0 1px 2px rgba(228, 214, 214);
+  color: rgba(228, 214, 214);
+  display: block;
+  font-size: 0.875rem;
+  margin: 0 0 1rem 0;
+  padding: 0.5rem;
+  margin-top: 0.55em;
+  height: 2.3125rem;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  transition: box-shadow 0.45s, border-color 0.45s ease-in-out;
+}
+
